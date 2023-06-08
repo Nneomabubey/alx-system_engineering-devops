@@ -1,2 +1,2 @@
 #!/bin/bash
-find / -user guillaume -ecec chown betty hello
+sudo chown betty: ~guillaume/ hello
