@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Hello, WOrld\n\n"
+echo 'Hello, WOrld'
